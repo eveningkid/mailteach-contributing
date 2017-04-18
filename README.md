@@ -1,6 +1,8 @@
 # Contribute To MailTeach
 So, you want to add your course to mailteach and wonder how to proceed? Awesome!
 
+> If you need a sample repository, here's [one for the ES6 course](https://github.com/eveningkid/mailteach-learn-es6).
+
 ## First, create a Github repository
 I'd recommend you to call it as the following `mailteach-course-name`, e.g. `mailteach-learn-es6`.  
 Initiate it with a **simple MIT licence file**.
