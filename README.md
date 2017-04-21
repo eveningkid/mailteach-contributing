@@ -12,8 +12,8 @@ Initiate it with a **simple MIT licence file**.
 - All your files must use both the [markdown syntax](https://guides.github.com/features/mastering-markdown/) and `.md` extension. 
 
 ## Third, create your course description file
-You'll now need yo create a `mailteach.json` file at the root of your repository.  
-The syntax should follow the following:
+You'll now need to create a `mailteach.json` file at the root of your repository.  
+The syntax should follow the following syntax:
 ```JSON
 {
   "lessons": {
@@ -32,7 +32,7 @@ The syntax should follow the following:
   }
 }
 ```
-Your file **must** have a `lessons` key with a set of child lessons.  
+Your file **must** have a `lessons` key with a **set** of child lessons.  
 Each lesson needs to be given a **title** and a **path** attributes.
 
 ## Finally, open an issue on this repo
@@ -54,7 +54,9 @@ Thank you!
 ## Thank You!
 This project aims to help people to finally learn things they've been procrastinating about for a long time.  
 I believe that small content, put into a simple and pretty way would be the answer to this.  
-I don't know if anyone will contribute to this project, but I do want to thank you if you take some of your time to take part to it. Actually, I guess that every future learner will want to thank you as well!  
+I don't know if anyone will ever contribute to this project, but I do want to thank you if you take some of your time to take part to this.  
+
+Actually, I guess that every future learner will want to thank you as well!  
 
 Have a nice day, and happy coding! :)
 
