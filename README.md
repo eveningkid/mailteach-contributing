@@ -13,7 +13,7 @@ Initiate it with a **simple MIT licence file**.
 
 ## Third, create your course description file
 You'll now need to create a `mailteach.json` file at the root of your repository.  
-The syntax should follow the following syntax:
+The syntax should look like the following:
 ```JSON
 {
   "lessons": {
@@ -36,7 +36,7 @@ Your file **must** have a `lessons` key with a **set** of child lessons.
 Each lesson needs to be given a **title** and a **path** attributes.
 
 ## Finally, open an issue on this repo
-Here you are, your course is finally ready. You know want to submit it to me so I can add it to the mailteach courses' list.  
+Here you are, your course is finally ready. You now want to submit it to me so I can add it to the mailteach courses' list.  
 Now [create an issue on this repository](https://github.com/eveningkid/mailteach-contributing/issues/new) and try to explain the goal of the course, followed by its repository github URL.  
 
 The suggested issue format is the following:
